@@ -1,9 +1,0 @@
-XGBClassifier: 0.6045
-XGBClassifier: 0.6055
-GradientBoostingClassifier: 0.6077
-XGBClassifier: 0.6062
-RandomForestClassifier: 0.5963
-XGBClassifier: 0.6076
-GradientBoostingClassifier: 0.6087
-RandomForestClassifier: 0.6021
-GradientBoostingClassifier: 0.6044

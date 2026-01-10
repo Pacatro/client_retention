@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Unnecessary files
+scores.txt
